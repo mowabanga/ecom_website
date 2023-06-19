@@ -1,0 +1,1 @@
+A responsive ecomm website using HTML, CSS and Vanila JS.
